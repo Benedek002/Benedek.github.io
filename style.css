@@ -1,0 +1,23 @@
+body,
+h1,
+h2,
+h3 {
+    font-family: 'gill Sans', 'Gill Sans Mt', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    background-color: lightsteelblue
+}
+
+p {
+    line-height: 1.4rem;
+    font-weight: bold;
+}
+
+header {
+    position: relative;
+}
+
+nav {
+    position
+}
